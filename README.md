@@ -4,6 +4,7 @@ The objective of our project is to enable an efficient search in a 3D model bank
 
 The project lies on differents techniques such Suggestive Contouring (Canny filter), Gabor filtering (gaussian convolution on Fourier Transformation of the input image) and histogram representation using Visual Vocabulary. 
 
+Below is the complete search pipeline for matching meshes :
 ![Alt text](images/pipeline.png?raw=true "Title")
 ## Prerequisites
 
